@@ -1,7 +1,3 @@
-# Terraform
-terraform/.terraform/
-*.tfstate
-*.tfstate.*
+.terraform
+.claude/settings.local.json
 
-# Terraform plans
-*.tfplan
